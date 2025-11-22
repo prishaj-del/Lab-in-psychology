@@ -1,0 +1,49 @@
+word,category,inkColour,correct_res
+Name,self ,blue,b
+Name,self ,yellow,y
+Me,self ,blue,b
+Me,self ,yellow,y
+Myself,self ,blue,b
+Myself,self ,yellow,y
+Mine,self ,blue,b
+Mine,self ,yellow,y
+I,self ,blue,b
+I,self ,yellow,y
+My,self ,blue,b
+My,self ,yellow,y
+Personal,self ,blue,b
+Personal,self ,yellow,y
+Selfhood,self ,blue,b
+Selfhood,self ,yellow,y
+They,other,blue,b
+They,other,yellow,y
+He,other,blue,b
+He,other,yellow,y
+Them,other,blue,b
+Them,other,yellow,y
+Stranger,other,blue,b
+Stranger,other,yellow,y
+Their,other,blue,b
+Their,other,yellow,y
+She,other,blue,b
+She,other,yellow,y
+Friend,other,blue,b
+Friend,other,yellow,y
+Her,other,blue,b
+Her,other,yellow,y
+Chair,neutral,blue,b
+Chair,neutral,yellow,y
+Table,neutral,blue,b
+Table,neutral,yellow,y
+Pencil,neutral,blue,b
+Pencil,neutral,yellow,y
+Bottle,neutral,blue,b
+Bottle,neutral,yellow,y
+Window,neutral,blue,b
+Window,neutral,yellow,y
+Book,neutral,blue,b
+Book,neutral,yellow,y
+Wall,neutral,blue,b
+Wall,neutral,yellow,y
+Door,neutral,blue,b
+Door,neutral,yellow,y
